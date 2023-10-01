@@ -1,0 +1,45 @@
+
+body {
+    background-color: rgb(225, 189, 189);
+    color: aquamarine;
+    font-family: fantasy;
+    text-transform: uppercase;
+
+ /*----------------- font  için internette hazır css kodları var */
+ /* -------------------------------class------------------------------ */
+    .text-red {
+        color: red;
+    }
+/* -----------------------------------class-------------------------- */
+/* ----------------------------------id---------------------- */
+/* id için #id{}----------->id="first-article" */
+#first-article{
+
+    font-size: 20px;
+}
+/* --------------------------------------id--------------------- */
+}
+h1
+{
+    text-align: center;
+    font-size:55px;
+    color: rgb(154, 17, 83);
+}
+h2 {
+    color : beige;
+    font-size : 44px;
+   text-transform: uppercase;
+   
+}
+  
+p
+{
+color: blueviolet;
+font-size: 50;
+ }
+ ul{
+    color:rgb(158, 19, 77);
+    font-size: 20px;
+    text-align: center;
+    list-style-position: inside
+ }
