@@ -1,2 +1,2 @@
 # internet_sitesi_-dev
-yemek sayfası yapım ödevi 
+html_ile_yemek_sayfası_yapım_ödev
